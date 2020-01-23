@@ -30,7 +30,7 @@ Slack-channel ( https://tinyurl.com/real-unicorns-com <-- If needed, confirm wit
 
 ## Be Social
 
-- Share your experience, but do not share the secrets of the #AWSGameDay!
+Share your experience, but do not share the secrets of the #AWSGameDay!
 
 `#AWSGameDay` ; `@awscloud` ; `@DunelmUK` ; `@riverisland` ; `@AntonioFeijaoUK` ; ... 
 
@@ -77,7 +77,7 @@ Come back here at 15:15.
 
 Welcome to the crypto-challenge version g34m892-nrf (STILL WIP).
 
-First of all, can you find where the challenge is? I can say that it is in the `us-west-1` region.
+First of all, can you find where the challenge is? I can say that it is in the `us-east-1` region.
 
 You also need something from this page. If you need a hint.."Julius Caesar, was a Roman dictator..."
 
@@ -114,7 +114,7 @@ Real-Unicorns team
 
 ## Support team
 
-Link to team feedback in here...
+Leave feedback for Antonio in [here](https://feedback.aws.amazon.com/?ea=feijao&fn=Antonio&ln=Feijao)
 
 ---
 
