@@ -3,3 +3,8 @@
 
 @import "{{ site.theme }}";
 
+<style>
+body { background-color:white; }
+.highlightme { background-color:#FFFF00; }
+code { background-color:black; }
+</style>
