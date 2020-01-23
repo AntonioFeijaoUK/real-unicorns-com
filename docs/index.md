@@ -19,7 +19,7 @@ description: AWS GameDay - Dunelm and River Island
 
 ## Be Social
 
-- Share your experience, but do not the secrets of the #AWSGameDay!
+- Share your experience, but do not share the secrets of the #AWSGameDay!
 
 `#AWSGameDay` ; `@awscloud` ; `@DunelmUK` ; `@riverisland` ; `@AntonioFeijaoUK` ; ... 
 
@@ -31,12 +31,12 @@ description: AWS GameDay - Dunelm and River Island
 
 09:00 - Arrivals
 09:15 - Breakfast
-09:30 - Find you table
+09:30 - Find your table
 
 09:45 - Welcome all - (Hurrah)
 09:55 - Welcome our Leader
 
-10:15 - Let the Game egin
+10:15 - Let the Game begin
 
 12:00 - Lunch
 
@@ -44,7 +44,7 @@ description: AWS GameDay - Dunelm and River Island
 
 15:15 - Final points
 
-15:30 - Winers
+15:30 - Winners
 
 16:00 - Have a nice unicorn day!
 
