@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: minimal #jekyll-theme-hacker
 
 # Site Settings
 locale                   : "en-GB"
