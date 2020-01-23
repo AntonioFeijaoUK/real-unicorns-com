@@ -1,6 +1,9 @@
-theme: jekyll-theme-minimal #jekyll-theme-hacker
+theme: jekyll-theme-minimal #jekyll-theme-hacker # Supported themes - https://pages.github.com/themes/
+
 logo: https://d1.awsstatic.com/events/GameDay250.96690fe1668e09bf9a5012de5dd78b6e9293b25f.png
+
 show_downloads: "false"
+
 google_analytics: ""
 
 
@@ -9,6 +12,9 @@ locale                   : "en-GB"
 title                    : "Real Unicorns"
 title_separator          : "-"
 subtitle                 : "Unicorns are real!"
+
 name                     : &name "Real Unicorns" # &name is a YAML anchor which can be *referenced later
+
 description              : &description "Unicorns are real!"
+
 url                      : https://www.real-unicorns.com # the base hostname & protocol for your site e.g. "https://www.real-unicorns.com"
