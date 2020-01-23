@@ -13,7 +13,8 @@ description: AWS GameDay - Dunelm and River Island
 
 ---
 
-[AWS GameDay](https://aws.amazon.com/gameday/)![AWS GameDay](https://d1.awsstatic.com/events/GameDay250.96690fe1668e09bf9a5012de5dd78b6e9293b25f.png)
+![AWS GameDay](https://d1.awsstatic.com/events/GameDay250.96690fe1668e09bf9a5012de5dd78b6e9293b25f.png)
+[AWS GameDay](https://aws.amazon.com/gameday/)
 
 ## Welcome
 
