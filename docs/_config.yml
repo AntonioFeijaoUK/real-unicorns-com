@@ -1,1 +1,10 @@
 theme: jekyll-theme-hacker
+
+# Site Settings
+locale                   : "en-GB"
+title                    : "Real Unicorns"
+title_separator          : "-"
+subtitle                 : "Unicorns are real!"
+name                     : &name "Real Unicorns" # &name is a YAML anchor which can be *referenced later
+description              : &description "Unicorns are real!"
+url                      : https://www.real-unicorns.com # the base hostname & protocol for your site e.g. "https://www.real-unicorns.com"
