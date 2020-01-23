@@ -13,9 +13,6 @@ description: AWS GameDay - Dunelm and River Island
 
 ---
 
-![AWS GameDay](https://d1.awsstatic.com/events/GameDay250.96690fe1668e09bf9a5012de5dd78b6e9293b25f.png)
-[AWS GameDay](https://aws.amazon.com/gameday/)
-
 ## Welcome
 
 - Welcome message goes in here...
@@ -70,6 +67,10 @@ Come back here at 15:15.
 ## Support team
 
 Link to team feedback in here...
+
+## Find more about AWS GameDay
+
+[AWS GameDay](https://aws.amazon.com/gameday/)
 
 [www.real-unicorns.com](https://www.real-unicorns.com)
 
