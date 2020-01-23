@@ -24,7 +24,7 @@ Use the hash provided to login into your AWS Gameday account
 
 ## Support team
 
-Slack-channel ( https://tinyurl.com/real-unicorns-com )
+Slack-channel ( https://tinyurl.com/real-unicorns-com <-- If needed, confirm with the team! )
 
 ---
 
@@ -57,7 +57,7 @@ Slack-channel ( https://tinyurl.com/real-unicorns-com )
 
 15:30 - Winners
 
-16:00 - Have a nice unicorn day!
+16:00 - Enjoy Unicorns
 
 ```
 
