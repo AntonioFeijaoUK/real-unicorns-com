@@ -1,7 +1,16 @@
 ---
 title: AWSGameDay - Dunelm and River Island
-tags: theme
-description: AWSGameDay - Dunelm and River Island
+
+tags:
+    - aws
+    - gameday
+    - awsgameday
+    - unicorn
+    - dunelm
+    - river-island
+    
+description: AWS GameDay - Dunelm and River Island
+
 ---
 
 [AWS GameDay](https://aws.amazon.com/gameday/)![AWS GameDay](https://d1.awsstatic.com/events/GameDay250.96690fe1668e09bf9a5012de5dd78b6e9293b25f.png)
@@ -25,10 +34,10 @@ description: AWSGameDay - Dunelm and River Island
 09:15 - Breakfast
 09:30 - Find you table
 
-09:45 - Welcoming everyone - (Hurrah)
-09:55 - All Leader!
+09:45 - Welcome all - (Hurrah)
+09:55 - Welcome our Leader
 
-10:15 - Let the game begin!
+10:15 - Let the Game egin
 
 12:00 - Lunch
 
@@ -43,7 +52,7 @@ description: AWSGameDay - Dunelm and River Island
 
 ## Support team
 
-Join slack-channel
+Find us on slack-channel ( https://tinyurl.com/real-unicorns-com )
 
 ## Start the Game
 
@@ -56,4 +65,7 @@ Have fun message goes in here.
 ## Feedback link
 
 Come back here at 15:15.
+
+## Staff feedback
+
 
