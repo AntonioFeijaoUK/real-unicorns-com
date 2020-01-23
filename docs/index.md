@@ -1,11 +1,11 @@
 ---
-title: AWSGameDay - Dunelm and River Island
+title: AWS GameDay - Dunelm and River Island
 
 tags:
     - aws
     - gameday
     - awsgameday
-    - unicorn
+    - unicorns
     - dunelm
     - river-island
     
