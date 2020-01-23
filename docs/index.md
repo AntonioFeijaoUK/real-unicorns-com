@@ -14,9 +14,19 @@ description: AWS GameDay - Dunelm and River Island
 
 ---
 
-## Welcome
+## Start the Game
 
-- Welcome message goes in here...
+Use the hash provided to login into your AWS Gameday account
+
+### <https://dashboard.eventengine.run>
+
+---
+
+## Support team
+
+Slack-channel ( https://tinyurl.com/real-unicorns-com )
+
+---
 
 ## Be Social
 
@@ -24,9 +34,9 @@ description: AWS GameDay - Dunelm and River Island
 
 `#AWSGameDay` ; `@awscloud` ; `@DunelmUK` ; `@riverisland` ; `@AntonioFeijaoUK` ; ... 
 
-## Agenda
+---
 
-- Agenda goes in here...
+## Agenda
 
 ```python
 
@@ -34,10 +44,10 @@ description: AWS GameDay - Dunelm and River Island
 09:15 - Breakfast
 09:30 - Find your table
 
-09:45 - Welcome all - (Hurrah)
-09:55 - Welcome our Leader
+09:45 - Welcome
+09:55 - Supreme Leader
 
-10:15 - Let the Game begin
+10:15 - Game begins
 
 12:00 - Lunch
 
@@ -50,23 +60,10 @@ description: AWS GameDay - Dunelm and River Island
 16:00 - Have a nice unicorn day!
 
 ```
----
-
-## Support team
-
-Find us on slack-channel ( https://tinyurl.com/real-unicorns-com )
-
----
-
-## Start the Game
-
-Use the hash provided to login into your AWS Gameday Account
 
 ---
 
 ## Have fun!
-
-Have fun message goes in here.
 
 ---
 
@@ -80,11 +77,11 @@ Come back here at 15:15.
 
 Welcome to the crypto-challenge version g34m892-nrf (STILL WIP).
 
-First of all, cand you find where the challenge is? I can say that is in the `us-west-1` region.
+First of all, can you find where the challenge is? I can say that it is in the `us-west-1` region.
 
 You also need something from this page. If you need a hint.."Julius Caesar, was a Roman dictator..."
 
-When you find the callenge, can you now find the password that decrypt the next file to reveal the hidden message?
+When you find the challenge, can you now find the password that decrypts the next file to reveal the hidden message?
 
 Files were encrypted like this:
 
@@ -96,7 +93,7 @@ When you find the password for the next file, use the command like this:
 
 Then you will be asked for a password. Type it in to decrypt the file and reveal the next hidden message. 
 
-Note that the AWS or Amazon full name of the service matters in this challenge.
+Note that the AWS or Amazon full names of the services matter in this challenge.
 
 Spaces matter.
 
@@ -104,11 +101,9 @@ New lines matter.
 
 Everything matters!
 
-e.g.
-> "Where yould you store object files with 99.999999999% (11 9's) of durability?"
+e.g. "Where would you store object files with 99.999999999% (11 9's) of durability?"
 
-Answer:
-> 'Amazon Simple Storage Service'
+Answer: `Amazon Simple Storage Service`
 
 
 We wish you the best of good luck!
