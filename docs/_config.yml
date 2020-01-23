@@ -1,4 +1,8 @@
-theme: minimal #jekyll-theme-hacker
+theme: jekyll-theme-minimal #jekyll-theme-hacker
+logo: https://d1.awsstatic.com/events/GameDay250.96690fe1668e09bf9a5012de5dd78b6e9293b25f.png
+show_downloads: "false"
+google_analytics: ""
+
 
 # Site Settings
 locale                   : "en-GB"
