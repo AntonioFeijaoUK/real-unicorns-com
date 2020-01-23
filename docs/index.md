@@ -27,7 +27,6 @@ description: AWS GameDay - Dunelm and River Island
 
 - Agenda goes in here...
 
-```python
 09:00 - Arrivals
 09:15 - Breakfast
 09:30 - Find you table
@@ -46,7 +45,6 @@ description: AWS GameDay - Dunelm and River Island
 15:30 - Winers
 
 16:00 - Have a nice unicorn day!
-```
 
 ## Support team
 
