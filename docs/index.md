@@ -30,7 +30,7 @@ Use the hash provided to login into your AWS Gameday account
 
 ## Support team
 
-Leave feedback for Antonio in [here](https://feedback.aws.amazon.com/?ea=feijao&fn=Antonio&ln=Feijao)
+Leave feedback for Antonio (AWS Game Day) in [here](https://feedback.aws.amazon.com/?ea=feijao&fn=Antonio&ln=Feijao)
 
 Leave feedback for Alex (Kahoot Game) in [here](https://feedback.aws.amazon.com/?ea=mclemana&fn=Alex&ln=McLeman)
 
