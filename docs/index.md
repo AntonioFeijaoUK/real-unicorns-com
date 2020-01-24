@@ -75,7 +75,7 @@ Come back here at 15:15.
 
 ## Mini-game crypto-challenge
 
-Welcome to the crypto-challenge version g34m892-nrf (STILL WIP).
+Welcome to the crypto-challenge version v2 'nzv-09p6186nnp1781870'
 
 First of all, can you find where the challenge is? I can say that it is in the `us-east-1` region.
 
