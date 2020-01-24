@@ -22,9 +22,21 @@ Use the hash provided to login into your AWS Gameday account
 
 ---
 
+## Feedback link
+
+## [AWS GAMEDAY Feedback](https://amazonmr.au1.qualtrics.com/jfe/form/SV_85MBA31VBoiW3vT)
+
+---
+
 ## Support team
 
-Slack-channel - <https://tinyurl.com/real-unicorns> 
+Leave feedback for Antonio in [here](https://feedback.aws.amazon.com/?ea=feijao&fn=Antonio&ln=Feijao)
+
+Leave feedback for Alex (Kahoot Game) in [here](https://feedback.aws.amazon.com/?ea=mclemana&fn=Alex&ln=McLeman)
+
+Leave feedback for Ben (Supported in [here](https://feedback.aws.amazon.com/?ea=benmoses&fn=Ben&ln=Moses)
+
+Leave feedback for Nicola (Music and Spporter) [here](https://feedback.aws.amazon.com/?ea=narnoldi&fn=NICOLA&ln=ARNOLDI)
 
 ---
 
@@ -63,13 +75,13 @@ Share your experience, but do not share the secrets of the #AWSGameDay!
 
 ---
 
-## Have fun!
+## Support team
+
+Slack-channel - <https://tinyurl.com/real-unicorns> 
 
 ---
 
-## Feedback link
-
-Come back here at 15:15.
+## Have fun!
 
 ---
 
@@ -109,12 +121,6 @@ Answer: `Amazon Simple Storage Service`
 We wish you the best of good luck!
 
 Real-Unicorns team
-
----
-
-## Support team
-
-Leave feedback for Antonio in [here](https://feedback.aws.amazon.com/?ea=feijao&fn=Antonio&ln=Feijao)
 
 ---
 
