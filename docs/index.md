@@ -89,7 +89,7 @@ Files were encrypted like this:
 
 When you find the password for the next file, use the command like this:
 
- - `gpg --output file{01..05} —decrypt file{01..05}.encrypted`
+ - `gpg --output file{01..05} -—decrypt file{01..05}.encrypted`
 
 Then you will be asked for a password. Type it in to decrypt the file and reveal the next hidden message. 
 
