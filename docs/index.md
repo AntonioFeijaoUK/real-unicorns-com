@@ -1,19 +1,25 @@
 ---
-title: AWS GameDay - Dunelm and River Island
+title: AWS GameDay
 
 tags:
     - aws
     - gameday
     - awsgameday
     - unicorns
-    - dunelm
-    - river-island
     - crypto
     
-description: AWS GameDay - Dunelm and River Island
+description: AWS GameDay
 
 ---
 
 ## Thank you for your participation! 
+
+---
+
+## Find more about AWS GameDay
+
+[AWS GameDay](https://aws.amazon.com/gameday/)
+
+[www.real-unicorns.com](https://www.real-unicorns.com)
 
 ---
