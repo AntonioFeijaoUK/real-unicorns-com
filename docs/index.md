@@ -36,7 +36,7 @@ When you find the password for the next file, use the command like this:
 
 Then you will be asked for a password. Type it in to decrypt the file and reveal the next hidden message.
 
-Remeber to clear the gpg cache if you put a wrong password.
+Remeber to clear the gpg cache if you put a wrong password. `echo RELOADAGENT | gpg-connect-agent`
 
 
 Note that the AWS or Amazon full names of the services matter in this challenge. Spaces matter. New lines matter. Everything matters!
