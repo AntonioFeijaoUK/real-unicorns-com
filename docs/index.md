@@ -54,8 +54,6 @@ Real-Unicorns team
 
 ---
 
-
-
 ## Find more about AWS GameDay
 
 [AWS GameDay](https://aws.amazon.com/gameday/)
@@ -63,3 +61,11 @@ Real-Unicorns team
 [www.real-unicorns.com](https://www.real-unicorns.com)
 
 ---
+
+Cryptographic game was created by [Antonio Feijao UK](https://www.linkedin.com/in/antoniofeijaouk/), AWS Solutions Architect for Amazon Web Services EMEA SARL, UK.
+
+If you enjoy the game, please leave some feedback in [here](https://feedback.aws.amazon.com/?ea=feijao&fn=Antonio&ln=Feijao).
+
+Thank you.
+AF
+
