@@ -16,7 +16,7 @@ description: AWS GameDay
 
 ## Mini-game crypto-challenge
 
-![encryption-basics](./assets/images/encryption-basics.png)
+![Four-rotor-enigma.jpg](./assets/images/Four-rotor-enigma.jpg "Four-rotor-enigma, Image credits wikipedia")
 
 Welcome to the crypto-challenge version `v2 machine: nzv-09p6186nnp1781870`
 
