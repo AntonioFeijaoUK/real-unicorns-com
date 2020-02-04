@@ -16,7 +16,7 @@ description: AWS GameDay
 
 ## Mini-game crypto-challenge
 
-![Enigma Machine](./assets/images/enigma-machine.jpg)
+![encryption-basics](./assets/images/encryption-basics.png)
 
 Welcome to the crypto-challenge version `v2 machine: nzv-09p6186nnp1781870`
 
