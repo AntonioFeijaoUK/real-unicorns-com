@@ -18,7 +18,7 @@ description: "Crytpo challenge game01"
 
 ## Mini-game crypto-challenge
 
-![Four-rotor-enigma.jpg](/assets/images/Four-rotor-enigma.jpg "Four-rotor-enigma, Image credits wikipedia")
+![Four-rotor-enigma.jpg](./assets/images/Four-rotor-enigma.jpg "Four-rotor-enigma, Image credits wikipedia")
 
 ### Welcome and version
 
