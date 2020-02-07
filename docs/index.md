@@ -1,9 +1,7 @@
 ---
 title: "Crytpo challenge Game01"
-layout: home
-
+layout: default
 author_profile: true
-
 tags:
     - aws
     - gameday
@@ -11,9 +9,7 @@ tags:
     - unicorns
     - crypto
     - cryptography
-
 description: "Crytpo challenge game01"
-
 ---
 
 ## Mini-game crypto-challenge
