@@ -1,5 +1,5 @@
 ---
-title: "Crytpo challenge Game01"
+title: "Crypto challenge Game01"
 layout: default
 author_profile: true
 tags:
@@ -9,7 +9,7 @@ tags:
     - unicorns
     - crypto
     - cryptography
-description: "Crytpo challenge game01"
+description: "Crypto challenge game01"
 ---
 
 ## Mini-game crypto-challenge
@@ -26,11 +26,11 @@ All I can say is that the you will run in in the `us-east-1` region.
 
 You also need something from this page. Maybe you read it already.
 
-If you need a hint to decypher it... "Julius Caesar, was a Roman dictator..."
+If you need a hint to decipher it... "Julius Caesar, was a Roman dictator..."
 
 ### When you find it
 
-When you find it, ssh into to it and them game begins! Note the login messange.
+When you find it, ssh into to it and them game begins! Note the login message.
 
 Can you now find the password that decrypts the first file to reveal the hidden message?
 
@@ -42,7 +42,7 @@ Files were encrypted like this:
 
 When you find the password for the next file, use the command like this:
 
-`gpg --output file{01..05} -—decrypt file{01..05}.encrypted`
+`gpg --output file{01..05} --decrypt file{01..05}.encrypted`
 
 Then you will be asked for a password.
 Type it in to decrypt the file and reveal the next hidden message.
