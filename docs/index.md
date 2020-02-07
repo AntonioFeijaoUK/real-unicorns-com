@@ -10,4 +10,4 @@ tags:
 description: AWS GameDay
 ---
 
-We are please to be hosted at [HackerCode.Run](https://www.hackercode.run/)
+Crypto challenge game now available at [HackerCode.Run](https://www.hackercode.run/)
