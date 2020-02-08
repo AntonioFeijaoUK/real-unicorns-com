@@ -3,15 +3,6 @@ title: "Crypto challenge Game01"
 layout: home
 author_profile: true
 
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/Four-rotor-enigma.jpg
-  actions:
-    - label: "Mini-game crypto-challenge"
-      url: "https://www.real-unicorns.com"
-  caption: "Photo credit: wikipedia"
-  
 tags:
     - aws
     - gameday
@@ -22,7 +13,7 @@ tags:
 description: "Crypto challenge game01"
 ---
 
-![Mini-game crypto-challenge](/assets/images/Four-rotor-enigma.jpg)
+![Mini-game crypto-challenge](./assets/images/Four-rotor-enigma.jpg "Four-rotor-enigma, Photo credit: Wikipedia")
 
 ### Welcome and version
 
