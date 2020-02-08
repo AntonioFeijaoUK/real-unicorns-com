@@ -2,6 +2,16 @@
 title: "Crypto challenge Game01"
 layout: default
 author_profile: true
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/Four-rotor-enigma.jpg
+  actions:
+    - label: "Mini-game crypto-challenge"
+      url: "https://www.HackerCode.Run"
+  caption: "Photo credit: wikipedia"
+  
 tags:
     - aws
     - gameday
@@ -11,10 +21,6 @@ tags:
     - cryptography
 description: "Crypto challenge game01"
 ---
-
-## Mini-game crypto-challenge
-
-![Four-rotor-enigma.jpg](./assets/images/Four-rotor-enigma.jpg "Four-rotor-enigma, Image credits wikipedia")
 
 ### Welcome and version
 
