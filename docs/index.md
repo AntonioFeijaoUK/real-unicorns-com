@@ -1,6 +1,7 @@
 ---
 title: "Crypto challenge Game01"
-layout: post #layout: default
+layout: post
+
 author_profile: true
 
 tags:
@@ -12,6 +13,8 @@ tags:
     - cryptography
 description: "Crypto challenge game01"
 ---
+
+Mini-game crypto-challenge GAME01
 
 ![Mini-game crypto-challenge](./assets/images/Four-rotor-enigma.jpg "Four-rotor-enigma, Photo credit: Wikipedia")
 
