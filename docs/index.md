@@ -22,6 +22,8 @@ tags:
 description: "Crypto challenge game01"
 ---
 
+![Mini-game crypto-challenge](/assets/images/Four-rotor-enigma.jpg)
+
 ### Welcome and version
 
 Welcome to the crypto-challenge version `v2 machine: nzv-09p6186nnp1781870`
