@@ -1,6 +1,6 @@
 ---
 title: "Crypto challenge Game01"
-layout: home
+layout: default
 author_profile: true
 
 tags:
