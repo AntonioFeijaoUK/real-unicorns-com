@@ -1,6 +1,6 @@
 ---
 title: "Crypto challenge Game01"
-layout: default
+layout: post #layout: default
 author_profile: true
 
 tags:
