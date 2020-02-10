@@ -55,7 +55,7 @@ If you need to clear the gpg cache, in case you put a wrong password you might n
 
 ### Password have the full names of the services
 
-(it not fun if you brute-force it, but is possible)
+(it is not fun if you brute-force it, but is possible)
 
 The passwords to decrypt the files needs the AWS or Amazon full names of the services.
 
